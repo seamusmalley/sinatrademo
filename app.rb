@@ -1,5 +1,7 @@
 require 'sinatra'
 
 get '/' do
-    p cake.list
+    @list  = File.open('cake.list', 'r')
+    @count = 1
+    erb :print_list
 end
