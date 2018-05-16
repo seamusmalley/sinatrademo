@@ -49,5 +49,5 @@ Using rack: https://devcenter.heroku.com/articles/rack
 Deployed Example
 ================
 
-http://vast-springs-3657.herokuapp.com/
-
+Example Version: http://vast-springs-3657.herokuapp.com/
+My Version: https://thawing-hamlet-23294.herokuapp.com/
